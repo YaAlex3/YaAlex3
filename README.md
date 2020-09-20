@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Public Github Stats](https://github-readme-stats.vercel.app/api?username=LyoSU&show_icons=true&hide_border=false)
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=YaAlex3&show_icons=true&hide_border=false)
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LyoSU/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YaAlex3/&title=Profile%20Views)
 
 <!--
 **YaAlex3/YaAlex3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
